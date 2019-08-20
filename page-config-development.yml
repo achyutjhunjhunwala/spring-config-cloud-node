@@ -1,1 +1,2 @@
-prop: from application-dev.yml edited
+prop: from application-dev.yml
+additionalProp: testing hot module reloading
